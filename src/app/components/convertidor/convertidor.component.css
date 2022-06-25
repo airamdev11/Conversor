@@ -1,0 +1,9 @@
+.badge{
+    margin:2px;
+    font-size: 1.8rem;
+}
+
+label, span{
+    font-size:150%;
+    color: white;
+}
